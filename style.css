@@ -1,0 +1,46 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: url("https://cdn.hipwallpaper.com/i/79/11/AZglDO.jpg");
+}
+
+h1 {
+  font-style: italic;
+  color: #05668D;
+  text-align: center;
+  text-shadow: 2px 2px pink;
+  font-family: Yanone Kaffeesatz;
+  font-size: 40px;
+}
+p {
+  color: #6A0136;
+  text-align: center;
+  font-family: Dancing Script;
+}
+h3 {
+  text-decoration: underline;
+  color: #05668D;
+}
+strong {
+  color: #6A0136;
+  font-style: italic;
+}
+ul {
+  list-style-type: circle;
+  color: #36213E;
+}
+a {
+  color: #36213E;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
